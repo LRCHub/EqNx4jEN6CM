@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "morning glow",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-16T13:59:25.991070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Morning Glow",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Morning_Glow_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Morning Glow",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Morning_Glow_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Icicles (Morning Glow)",
+      "artist": "Tiny Moving Parts",
+      "has_synced": true,
+      "path": "select/03_Icicles_(Morning_Glow)_Tiny_Moving_Parts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Morning Glow - Single Version",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Morning_Glow_-_Single_Version_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Morning Glow (Single Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Morning_Glow_(Single_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A step in the morning glow",
+      "artist": "envy",
+      "has_synced": true,
+      "path": "select/06_A_step_in_the_morning_glow_envy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Morning Glow",
+      "artist": "Clan of Xymox",
+      "has_synced": false,
+      "path": "select/07_Morning_Glow_Clan_of_Xymox.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yuna: Morning glow",
+      "artist": "青木麻由子",
+      "has_synced": true,
+      "path": "select/08_Yuna__Morning_glow_青木麻由子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Morning Glow",
+      "artist": "Jordy Searcy feat. Julianna Zachariou",
+      "has_synced": true,
+      "path": "select/09_Morning_Glow_Jordy_Searcy_feat._Julianna_Zachariou.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Morning Glow (feat. Julianna Zachariou)",
+      "artist": "Jordy Searcy",
+      "has_synced": true,
+      "path": "select/10_Morning_Glow_(feat._Julianna_Zachariou)_Jordy_Searcy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Morning Glow",
+      "artist": "Hunter Plake",
+      "has_synced": true,
+      "path": "select/11_Morning_Glow_Hunter_Plake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "morning glow",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_morning_glow_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
